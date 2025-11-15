@@ -16,6 +16,14 @@
   - [Email](mailto:ashishnarayan0203@gmail.com) 
 
 - ⚡ Fun fact: **You have never seen your real face, just pictures or reflections of it.**
+
+<br/>
+<hr>
+
+[![An image of @naryn03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naryn03)](https://holopin.io/@naryn03)
+
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/express.svg" alt="express" width="40" height="40"/></a> 
 <a href="https://react.dev/" target="_blank"> <img src="https://github.com/react-icons/react-icons/blob/master/react-icons.svg" alt="react.js" width="40" height="40"/></a>
